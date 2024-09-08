@@ -1,17 +1,22 @@
 
+html{
+    font-size: 20px;
+}
 
 body {
-    font-family: "Arial", "Meiryo", sans-serif
+    font-family: "Arial", "Meiryo", sans-serif;
+    
 }
+
 
 
 /* title の「M」をスカイブルーに、「P」をピンクに 
 HTML内で設定*/
 h1{
-font-family: "Josefin Sans";
+font-family: "Josefin Sans", sans-serif;
 text-align: center;
-font-size: 40;
-letter-spacing: 1.2em;
+font-size :2rem;
+letter-spacing:1.2em;
 border-bottom: solid 3px rgb(115, 115, 114);
 text-shadow:1px 1px 2px gray ;
 
